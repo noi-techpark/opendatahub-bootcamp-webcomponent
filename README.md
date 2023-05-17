@@ -1,6 +1,18 @@
 # Bootcamp challenge
+Implement a web component displaying nearest parking stations based on selected POI GPS information. 
+Displaying a list of parking stations with distances from the selected POI. 
 
-https://mobility.api.opendatahub.com
+Bonus features: 
+ - Displaying the nearest e-charging stations
+ - Display predicted parking station availability in x hours
+ - Include a link to a route plan system.
+
+This repo is a clone of noi-techpark/webcomp-boilerplate
+
+### Useful links 
+  Mobility API: https://mobility.api.opendatahub.com  
+  Webcomponent store (testing): https://webcomponents.opendatahub.testingmachine.eu
+
 # Webcomponent Boilerplate
 
 The webcomponent Boilerplate is the start to your project, and it contains a hello-world webcomp to show you how a basic one works and to give you a little help to start your amazing new webcomponent!
