@@ -1,10 +1,10 @@
 {
-  "title": "Hello-world",
-  "shortName": "hello-world-2",
+  "title": "Bootcamp-Hello-world",
+  "shortName": "Bootcamp-hello-world",
   "description": "Hello world simple webcomp example",
   "descriptionAbstract": "Hello world simple webcomp example",
   "license": "AGPL-3.0-or-later",
-  "repositoryUrl": "https://your-repository.git",
+  "repositoryUrl": "https://github.com/noi-techpark/opendatahub-bootcamp-webcomponent",
   "copyrightHolders": [
     {
       "name": "NOI",
