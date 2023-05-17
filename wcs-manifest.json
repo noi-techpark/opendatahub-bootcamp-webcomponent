@@ -4,7 +4,7 @@
   "description": "Hello world simple webcomp example",
   "descriptionAbstract": "Hello world simple webcomp example",
   "license": "AGPL-3.0-or-later",
-  "repositoryUrl": "https://github.com/noi-techpark/opendatahub-bootcamp-webcomponent",
+  "repositoryUrl": "https://github.com/noi-techpark/opendatahub-bootcamp-webcomponent.git",
   "copyrightHolders": [
     {
       "name": "NOI",
@@ -15,9 +15,9 @@
   ],
   "authors": [
     {
-      "name": "...",
+      "name": "NOI Bootcamp",
       "email": "...",
-      "organization": "...",
+      "organization": "NOI Bootcamp",
       "organizationUrl": "..."
     }
   ],
