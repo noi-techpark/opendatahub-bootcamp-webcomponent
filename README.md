@@ -12,6 +12,7 @@ This repo is a clone of noi-techpark/webcomp-boilerplate
 ### Useful links 
   Mobility API: https://mobility.api.opendatahub.com  
   Webcomponent store (testing): https://webcomponents.opendatahub.testingmachine.eu
+  Challenge presentation: https://bit.ly/OpenDataHub23
 
 # Webcomponent Boilerplate
 
