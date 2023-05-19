@@ -46,9 +46,6 @@ catch(err) {
   distance = 10000;
 }
 
-
-
-
  console.info(distance);
 
  if (distance < 2) {
@@ -58,15 +55,14 @@ catch(err) {
 } else {
   pin = redIcon;
 }
-
-
+//pin = orangeIcon;
 
  function toRadians(degrees) {
     return degrees * (Math.PI / 180);
  }
 
 
-  pin = redIcon;
+  //pin = redIcon;
 
 
 
