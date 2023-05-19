@@ -1,9 +1,10 @@
 {
-  "title": "Parking",
-  "description": "A widget that allows to easily integrate the list or the map view of the parking lots that are located in all South Tyrol or near a certain location.",
-  "descriptionAbstract": "This web component shows all parking lots provided by the Open Data Hub.",
+  "title": "Bootcamp-Hello-world",
+  "shortName": "Bootcamp-hello-world",
+  "description": "Hello world simple webcomp example",
+  "descriptionAbstract": "Hello world simple webcomp example",
   "license": "AGPL-3.0-or-later",
-  "repositoryUrl": "https://github.com/noi-techpark/webcomp-parking.git",
+  "repositoryUrl": "https://github.com/noi-techpark/opendatahub-bootcamp-webcomponent.git",
   "copyrightHolders": [
     {
       "name": "NOI",
@@ -14,10 +15,10 @@
   ],
   "authors": [
     {
-      "name": "Belka",
-      "email": "hello@belkadigital.com",
-      "organization": "Belka",
-      "organizationUrl": "https://belkadigital.com/"
+      "name": "NOI Bootcamp",
+      "email": "...",
+      "organization": "NOI Bootcamp",
+      "organizationUrl": "..."
     }
   ],
   "image": "wcs-logo.png",
