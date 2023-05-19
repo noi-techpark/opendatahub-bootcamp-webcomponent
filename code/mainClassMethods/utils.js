@@ -1,5 +1,7 @@
 import blueIcon from "../assets/pins/blue.svg";
 import redIcon from "../assets/pins/red.svg";
+import greenIcon from "../assets/pins/green.svg";
+import orangeIcon from "../assets/pins/orange.svg";
 import Leaflet from "leaflet";
 
 
@@ -34,19 +36,33 @@ export const getPin = (mvalue, currentLocation, parkinglat, parkinglong) => {
 
     return distance;
  }
- //currentLocation.lat
- console.log(currentLocation.lat, currentLocation.lng);
 
- console.info(calculateDistance(parkinglat, parkinglong, currentLocation.lat, currentLocation.lng));
+ var distance = 10000;
 
+ try {
+   distance = calculateDistance(parkinglat, parkinglong, currentLocation.lat, currentLocation.lng)
+}
+catch(err) {
+  distance = 10000;
+}
 
+ console.info(distance);
+
+ if (distance < 2) {
+  pin = greenIcon;
+} else if (distance > 2 && distance < 3) {
+  pin = orangeIcon;
+} else {
+  pin = redIcon;
+}
+//pin = orangeIcon;
 
  function toRadians(degrees) {
     return degrees * (Math.PI / 180);
  }
 
 
-  pin = redIcon;
+  //pin = redIcon;
 
 
 
