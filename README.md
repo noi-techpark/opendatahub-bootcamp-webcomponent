@@ -13,8 +13,15 @@ https://developer.mozilla.org/en-US/docs/Web/API/Web_Components
 ## Dev Stack
 
 Windows 10 Pro
+
 Visual Studio Code 1.78.2
+
 Node.js 134.17.6
+
+## Dev Editor Used
+
+Visual Code
+
 
 
 ## Open Data Hub Call
@@ -30,20 +37,14 @@ https://swagger.opendatahub.com/?url=https://mobility.api.opendatahub.com/v2/api
 
 https://swagger.opendatahub.com/?url=https://mobility.api.opendatahub.com/v2/apispec#/Mobility%20V2/get_v2__representation___stationTypes___dataTypes__latest
 
+
+
 ## Web Component Parameters
 
 The component need only need geo pos lon, lat
 
 https://webcomponents.opendatahub.testingmachine.eu/webcomponent/Bootcamp-hello-world?from=%2F%3Ftags%3Dany%26term%3Dbootcam
 
-
-## Dev Editor Used
-
-Visual Code
-
-## Test
-
-?
 
 ## Released as git hub action
 
