@@ -23,7 +23,6 @@ Node.js 134.17.6
 Visual Code
 
 
-
 ## Open Data Hub Call
 
 No authentication used. Public API:
