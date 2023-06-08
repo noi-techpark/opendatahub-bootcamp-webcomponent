@@ -6,7 +6,7 @@ SPDX-License-Identifier: CC0-1.0
 
 ## Web Component
 
-![REUSE Compliance](https://github.com/noi-techpark/REPONAME/actions/workflows/reuse.yml/badge.svg)
+![REUSE Compliance](https://github.com/noi-techpark/opendatahub-bootcamp-webcomponent/actions/workflows/reuse.yml/badge.svg)
 
 For the second challenge, the team will be responsible for developing a web component that will
 be added to the website (developed by the first challenge team) and shows the nearest parking
